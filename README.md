@@ -2,6 +2,8 @@
 
 ## Aplikacja sterująca dla symulowanego obiektu linii produkcyjnej
 
+Projekt zrealizowany w środowisku **XSOFT-CODESYS V2.3.9 SP8**
+
 Obiekt sterowania składa się z generatora paczek (emitera), czterech głównych odcinków 
 taśmociągów oraz układu transferów (sorterów) kierujących obiekty do czterech
 koszy, czterech elementów usuwających paczki. Oraz czujników pozwalających zidentyfikować 
